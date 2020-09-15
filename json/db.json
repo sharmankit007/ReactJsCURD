@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "title": "Pizza Hut",
+      "rating": "4.8",
+      "address": "Delhi",
+      "id": 1
+    },
+    {
+      "title": "Jain Soda Water",
+      "rating": "4.3",
+      "address": "Noida",
+      "id": 3
+    },
+    {
+      "title": "The Spice Lab",
+      "rating": "4.1",
+      "address": "Gurgaon",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "Haldiram's",
+      "rating": "4.8",
+      "address": "Delhi"
+    },
+    {
+      "id": 6,
+      "title": "Indian Grill Room",
+      "rating": "4.6",
+      "address": "Noida"
+    },
+    {
+      "id": 8,
+      "title": "Pind Balluchi",
+      "rating": "4.2",
+      "address": "Gurgaon"
+    },
+    {
+      "id": 9,
+      "title": "Farzi Cafe",
+      "rating": "4.4",
+      "address": "Noida"
+    }
+  ]
+}
