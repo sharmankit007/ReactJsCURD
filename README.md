@@ -1,7 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Before starting the Project, Go to the Json Folder and run the below command:
 
+Start JSON Server
+
+### json-server --watch db.json
 In the project directory, you can run:
 
 ### `npm start`
